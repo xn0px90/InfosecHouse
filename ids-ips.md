@@ -14,3 +14,4 @@ description: Intrusion Detection and Prevention Systems.
 * [SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS/NSM distro. ![last-commit](https://img.shields.io/github/last-commit/StamusNetworks/SELKS?style=flat)
 * [Snort](https://github.com/snort3/snort3) - Open Source detection software. ![last-commit](https://img.shields.io/github/last-commit/snort3/snort3?style=flat)
 * [Suricata](https://github.com/OISF/suricata) - Indpendent open-source threat detection engine. ![last-commit](https://img.shields.io/github/last-commit/OISF/suricata?style=flat)
+* [zeek](https://github.com/zeek/zeek) - A powerful framework for network traffic analysis and security monitoring. ![last-commit](https://img.shields.io/github/last-commit/zeek/zeek?style=flat)
